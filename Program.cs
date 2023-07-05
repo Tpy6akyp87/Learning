@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Program
+public class Program1
 {
-	public Program()
+	public Program1()
 	{
 	}
 }
